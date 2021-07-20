@@ -1,4 +1,3 @@
-<img src='imgs/teaser.gif' align="right" width=360>
 
 <br><br><br><br>
 
@@ -11,28 +10,6 @@ Pytorch implementation for high-resolution (e.g., 2048x1024) photorealistic vide
  <sup>1</sup>NVIDIA Corporation, <sup>2</sup>MIT CSAIL  
  In Neural Information Processing Systems (**NeurIPS**) 2018  
 
-## Video-to-Video Translation
-- Label-to-Streetview Results
-<p align='center'>  
-  <img src='imgs/city_change_styles.gif' width='440'/>  
-  <img src='imgs/city_change_labels.gif' width='440'/>
-</p>
-
-- Edge-to-Face Results
-<p align='center'>
-  <img src='imgs/face.gif' width='440'/>
-  <img src='imgs/face_multiple.gif' width='440'/>
-</p>
-
-- Pose-to-Body Results
-<p align='center'>
-  <img src='imgs/pose.gif' width='550'/>
-</p>
-
-- Frame Prediction Results
-<p align='center'>
-  <img src='imgs/framePredict.gif' width='550'/>
-</p>
 
 ## Prerequisites
 - Linux or macOS
