@@ -2,6 +2,7 @@ import numpy as np
 import torch
 import sys
 from .base_model import BaseModel
+import .FlowNet
 
 class FlowNet(BaseModel):
     def name(self):
